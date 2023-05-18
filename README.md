@@ -18,7 +18,7 @@ Functions
 	2. Obtain signing secret (SLACK_SIGNING_SECRET) and bot token (SLACK_BOT_TOKEN). 
 	Bot token can be obtained from OAuth & Permissions section after adding scopes.
 	
-	3. Create /chatgpt slash commmand.  
+	3. Create /newsapi, /newsgpt slash commmand.  
 	URL will be Azure webapp url. (E.g- https://slackbotprod.azurewebsites.net/mp3_trigger)
 	
 	4. Add to workspace.
