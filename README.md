@@ -25,3 +25,8 @@ Functions
 	
 	4. Set up a webapp in Azure and connect to the github repo. 
 	Add the environment secrets (SLACK_BOT_TOKEN, SLACK_SIGNING_SECRET, OPENAI_API_KEY, DEEPL_API, NEWS_API_KEY)
+	
+**Usage**
+
+![newsgpt](https://github.com/shaikh1994/Newsapi_Slack/assets/43321233/0a3fd07c-e992-4b9a-9a15-06a3374e1efc)
+
